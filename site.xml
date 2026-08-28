@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Alcadrial Plugins">
+      Update site
+   </description>
+   <feature url="features/com.alcadrial.gradlebuildconfig_1.0.1.jar" id="com.alcadrial.gradlebuildconfig" version="1.0.1"/>
+</site>
